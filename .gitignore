@@ -1,0 +1,7 @@
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+boot.img
+system/system/system_ext/priv-app/Settings/Settings.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/apex/com.android.vndk.current.apex
